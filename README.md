@@ -1,2 +1,4 @@
 # seg_informatica
 Repositorio para Seguridad Informática
+
+Este es una prueba para la clase de Seguridad Informática.
